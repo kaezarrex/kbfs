@@ -1,5 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import { config } from 'config'
 
 export default class ReactComponent extends React.Component {
@@ -19,9 +18,6 @@ export default class ReactComponent extends React.Component {
   render () {
     return (
       <div>
-        <Helmet
-          title={`${config.siteTitle} | React.js components`} 
-        />
         <h1>React.js components</h1>
         <h3>Counter example</h3>
         <p>{this.state.count}</p>

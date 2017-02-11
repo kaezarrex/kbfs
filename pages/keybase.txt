@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/kaezarrex
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaezarrex.keybase.pub
+  * I am kaezarrex (https://keybase.io/kaezarrex) on keybase.
+  * I have a public key ASBqR-yxf9KBkEYjyi729DNSpcbV0wosLgQBAtvmkoEYJAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014cd64304b52e9c888aeaa4059bb038adfd6c2162196886409cf530352b7846e00a",
+            "host": "keybase.io",
+            "kid": "01206a47ecb17fd281904623ca2ef6f43352a5c6d5d30a2c2e040102dbe6928118240a",
+            "uid": "b28e481231dac4e35244fd6b6ad8f400",
+            "username": "kaezarrex"
+        },
+        "service": {
+            "hostname": "kaezarrex.keybase.pub",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486772936,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486772922,
+        "hash": "84092a87a4193140fe89687202daac74c1cd25d531c354f51b0bd966319531c71a9b0ba76abf12b73eef59e8b7d334785ec34a2f2e9da242e7b9d5d1cfbdb402",
+        "seqno": 874448
+    },
+    "prev": "f063b3003eda9f01028e4e8e7420a9982b45085a3bd7bb6285910a0f5314a58a",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgakfssX/SgZBGI8ou9vQzUqXG1dMKLC4EAQLb5pKBGCQKp3BheWxvYWTFAv97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNGNkNjQzMDRiNTJlOWM4ODhhZWFhNDA1OWJiMDM4YWRmZDZjMjE2MjE5Njg4NjQwOWNmNTMwMzUyYjc4NDZlMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmE0N2VjYjE3ZmQyODE5MDQ2MjNjYTJlZjZmNDMzNTJhNWM2ZDVkMzBhMmMyZTA0MDEwMmRiZTY5MjgxMTgyNDBhIiwidWlkIjoiYjI4ZTQ4MTIzMWRhYzRlMzUyNDRmZDZiNmFkOGY0MDAiLCJ1c2VybmFtZSI6ImthZXphcnJleCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia2FlemFycmV4LmtleWJhc2UucHViIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODY3NzI5MzYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4Njc3MjkyMiwiaGFzaCI6Ijg0MDkyYTg3YTQxOTMxNDBmZTg5Njg3MjAyZGFhYzc0YzFjZDI1ZDUzMWMzNTRmNTFiMGJkOTY2MzE5NTMxYzcxYTliMGJhNzZhYmYxMmI3M2VlZjU5ZThiN2QzMzQ3ODVlYzM0YTJmMmU5ZGEyNDJlN2I5ZDVkMWNmYmRiNDAyIiwic2Vxbm8iOjg3NDQ0OH0sInByZXYiOiJmMDYzYjMwMDNlZGE5ZjAxMDI4ZTRlOGU3NDIwYTk5ODJiNDUwODVhM2JkN2JiNjI4NTkxMGEwZjUzMTRhNThhIiwic2Vxbm8iOjIwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQADzjzsnF0d+q7farI+zMIZiZb6s1CLil6md/K3gnEIm2201QoOomML09cks5Y5tsKfqemXqlsAoztejlsSDYgOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCNmmDc7k/xkgoACe5fXwuL5RE8fagW40CE449Smp6v66N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaezarrex
+
+==================================================================
