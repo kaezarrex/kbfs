@@ -1,12 +1,17 @@
 html {
+  box-sizing: border-box;
   font-size: 18px;
   height: 100%;
 }
 
 @media (max-width: 425px) {
   html {
-    font-size: 4.8vw;
+    font-size: 4.25vw;
   }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 body {
@@ -34,6 +39,24 @@ p {
 a {
   color: rgba(0, 0, 0, 0.8);
   text-decoration: underline;
+}
+
+pre {
+  background-color: #282828;
+  border-radius: 0.2rem;
+  color: #ebdbb2;
+  font-size: 0.9rem;
+  padding: 1rem 2rem;
+  overflow: auto;
+}
+
+@media (max-width: 768px) {
+  pre {
+    background-color: #282828;
+    border-radius: 0;
+    padding: 1rem 1rem;
+    margin: 0 -1rem;
+  }
 }
 
 ::selection {

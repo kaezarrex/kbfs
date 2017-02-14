@@ -1,4 +1,5 @@
 import React from 'react'
+import 'highlight.js/styles/gruvbox-dark';
 import 'css/styles.css'
 import { config } from 'config'
 
