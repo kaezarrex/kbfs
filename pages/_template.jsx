@@ -12,13 +12,14 @@ module.exports = React.createClass({
   render() {
     return (
       <div style={{display: 'flex', flexDirection: 'column', height: '100%'}}>
-        <Container style={{flex: 1, maxWidth: 768, paddingTop: 0, width: '100%'}}>
+        <Container
+          style={{flex: 1, maxWidth: 768, paddingTop: 0, width: '100%'}}
+        >
           <Header />
           {this.props.children}
         </Container>
-          <Footer />
+        <Footer />
       </div>
     );
   },
 });
-

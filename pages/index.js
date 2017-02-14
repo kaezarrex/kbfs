@@ -14,10 +14,9 @@ export default class Index extends React.Component {
         <p>
           This is my example <a href="https://keybase.io/docs/kbfs" target="_blank">Keybase filesystem</a> website.
           It's a static site generated with <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>,
-          and made of a combination of HTML, JSX and Markdown.
-        </p>
-        <p>
-          <a href="https://keybase.pub/kaezarrex/" target="_blank">browse source</a>
+          and made of a combination of HTML, JSX and Markdown. You can view the source
+          on <a href="https://github.com/kaezarrex/kbfs" target="_blank">Github</a> or the generated
+          files on <a href="https://keybase.pub/kaezarrex/" target="_blank">Keybase</a>.
         </p>
         <p>
           <a href="keybase.txt">site verification</a>
@@ -30,4 +29,3 @@ export default class Index extends React.Component {
     );
   }
 }
-

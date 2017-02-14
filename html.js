@@ -14,9 +14,9 @@ module.exports = React.createClass({
     if (process.env.NODE_ENV === 'production') {
       css = (
         <style
-          dangerouslySetInnerHTML={
-            {__html: require('!raw!./public/styles.css')}
-          }
+          dangerouslySetInnerHTML={{
+            __html: require('!raw!./public/styles.css'),
+          }}
         />
       );
     }
@@ -45,4 +45,3 @@ module.exports = React.createClass({
     );
   },
 });
-
